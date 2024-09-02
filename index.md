@@ -2,10 +2,18 @@
 layout: default
 ---
 
+<style>
+        /* CSS class to add space around each image */
+        .spaced-image {
+            margin-bottom: 20px; /* Adjust the value to control the space */
+        }
+    </style>
 
 # CompTIA Network+
 
-![Branching](CompTIA Network+ ce certificate.png)
+<div class="spaced-image">
+        <img src="CompTIA Network+ ce certificate.png" alt="CompTIA Network+ Certificate">
+    </div>
 
 
 
