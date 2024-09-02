@@ -7,9 +7,17 @@ layout: default
 
 ![Branching](CompTIA Network+ ce certificate.png)
 
+
+
 # Fortinet Certified Associate in Cybersecurity
 
 ![Branching](Fortinet_Certified_Associate_in_Cybersecurity.png)
+
+
+
+# ISC2 Certified in Cybersecurity
+
+![Branching](ISC2CC.png)
 
 ## Header 2
 
