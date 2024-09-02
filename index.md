@@ -100,8 +100,6 @@ end
 
 ### Large image
 
-![Branching](CompTIA Network+ ce certificate.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
